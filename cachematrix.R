@@ -3,6 +3,7 @@
 
 ## Write a short comment describing this function
 # Create Caches Matrix and use the Solve Function for the Inverse 
+# Takes matrix as a formal parameter
 
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
